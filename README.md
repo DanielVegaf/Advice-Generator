@@ -1,4 +1,7 @@
 # Frontend Mentor - Advice generator app
+## View Project
+https://goodadvices.netlify.app/
+
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
